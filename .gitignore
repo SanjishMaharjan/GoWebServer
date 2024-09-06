@@ -1,0 +1,26 @@
+
+### `.gitignore`
+```gitignore
+# Go related
+/bin/
+/pkg/
+/vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build files
+*.exe
+*.out
+*.app
+
+# IDE related files
+.vscode/
+.idea/
+
+# Air live reload config
+.air.toml
