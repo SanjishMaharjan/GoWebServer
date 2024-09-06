@@ -17,27 +17,27 @@ This is a simple Go web server that serves static files and handles form submiss
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/sanjishmaharjan/go-web-server.git
-    ```
+   ```bash
+   https://github.com/SanjishMaharjan/GoWebServer.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd go-web-server
-    ```
+   ```bash
+   cd go-web-server
+   ```
 
 3. Install any dependencies:
 
-    ```bash
-    go mod tidy
-    ```
+   ```bash
+   go mod tidy
+   ```
 
 4. Run the server:
 
-    ```bash
-    go run main.go
-    ```
+   ```bash
+   go run main.go
+   ```
 
 5. The server will be running on `http://localhost:8080`.
 
@@ -50,3 +50,4 @@ This is a simple Go web server that serves static files and handles form submiss
 ├── go.mod          # Go module file
 ├── README.md       # Project README file
 └── .gitignore      # Git ignore file
+```
